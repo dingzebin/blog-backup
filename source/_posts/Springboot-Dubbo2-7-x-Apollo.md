@@ -17,7 +17,7 @@ tags: 配置中心
 ![](/images/ConfigCenter/20191124151846.png)
 如上图创建3个Project，分别为demo-common（公共配置）、demo-provider（提供者配置）、demo-consumer（消费者配置）
 ### 1.2 创建公共Namespace
-先进入demo-common项目，点击右下角的添加 Add Namespace 按钮
+先进入demo-common项目，点击左下角的添加 Add Namespace 按钮
 ![](/images/ConfigCenter/20191124152637.png)
 进入添加Namespace页面后点击 Create Namespace 按钮
 ![](/images/ConfigCenter/20191124152954.png)
